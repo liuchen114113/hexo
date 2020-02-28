@@ -110,7 +110,7 @@ gitment:
   language:
   github_user: liuchen114113
   github_repo: liuchen114113.github.io/
-  client_id: 09a2760e2209a8728279
-  client_secret: 1162d7e456f9c8d3f15f164e63f5d253679445a5
+  client_id: 5efaeab243c9580dea8e
+  client_secret: 017d390a8c804b69f4aeda229cca6a737e7346f9
   proxy_gateway:
   redirect_protocol:
