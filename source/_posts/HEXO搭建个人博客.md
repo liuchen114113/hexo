@@ -1,3 +1,9 @@
+---
+title: HEXO搭建个人博客
+date: 2019-08-20 19:37:05
+tags:
+---
+
 ## 一、安装Hexo
 
 Hexo的安装在其[官方文档](https://links.jianshu.com/go?to=https%3A%2F%2Fhexo.io%2Fzh-cn%2Fdocs%2F)中有很详细的说明。下面将简单介绍Hexo的安装。
